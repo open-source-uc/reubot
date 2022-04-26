@@ -1,0 +1,5 @@
+venv/
+.env
+lists.json
+current_list.json
+__pycache__/
